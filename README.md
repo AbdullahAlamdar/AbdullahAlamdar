@@ -23,7 +23,8 @@ I'm a passionate learner and aspiring Data Scientist currently pursuing my degre
 Here are some of the projects I've worked on so far:  
 1. 🐍 **Classic Snake Game** – Built in my Programming Fundamentals course.  
 2. 🧱 **Brick Breaker Game** – Developed during my Object-Oriented Programming (OOP) course (yes, the one I failed!).  
-3. 🏰 **Dungeon Escape Game** – Created during the summer semester while retaking OOP.  
+3. 🏰 **Dungeon Escape Game** – Created during the summer semester while retaking OOP.
+4. 🚗 **Traffic Management System** _ Developed during my Data Structures course
 
 Currently, I am studying **Data Structures** and exploring advanced problem-solving techniques.
 
