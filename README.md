@@ -25,6 +25,8 @@ Here are some of the projects I've worked on so far:
 2. 🧱 **Brick Breaker Game** – Developed during my Object-Oriented Programming (OOP) course (yes, the one I failed!).  
 3. 🏰 **Dungeon Escape Game** – Created during the summer semester while retaking OOP.
 4. 🚗 **Traffic Management System** _ Developed during my Data Structures course
+5. 💾 **Cache Memory Simulation** _ Developed in my Data Structures' Assignment
+6. 🌐 **Browser Simulation app** _Developed in my Data Structures' Assignment
 
 Currently, I am studying **Data Structures** and exploring advanced problem-solving techniques.
 
