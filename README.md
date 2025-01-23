@@ -28,7 +28,7 @@ Here are some of the projects I've worked on so far:
 5. 💾 **Cache Memory Simulation** _ Developed in my Data Structures' Assignment
 6. 🌐 **Browser Simulation app** _Developed in my Data Structures' Assignment
 
-Currently, I am studying **Data Structures** and exploring advanced problem-solving techniques.
+Currently, I am studying **DataBase Systems** and exploring advanced problem-solving techniques.
 
 ---
 
