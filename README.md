@@ -7,7 +7,7 @@ I'm a passionate learner and aspiring Data Scientist currently pursuing my degre
 
 ## 💻 What I'm Learning
 - 🌱 Currently diving into **Python** and **R** for data analysis and machine learning.
-- 🛠️ Have a solid foundation in **HTML**, **CSS**, **C++**, **Python** and **R** .
+- 🛠️ Have a solid foundation in **HTML**, **CSS**, **C++**,**C#** ,**SQL**  , **Assembly** , **Python**, **R**,**OOPs**,**Data Structures**,**Data Science**    .
 - 🚀 Constantly looking for ways to merge my love for data and creativity into innovative projects.
 
 ---
